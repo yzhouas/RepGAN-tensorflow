@@ -24,3 +24,13 @@ To generate this tfRecord file, first put the "img_align_celeba" folder from the
    
 The learning rates are also hard coded, as explained above.
 The trainng data is located in ./svhn/svhn_data/, as .mat file.
+
+## Citing
+```
+@article{zhou2018unsupervised,
+  title={Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation},
+  author={Zhou, Yuqian and Gu, Kuangxiao and Huang, Thomas},
+  journal={arXiv preprint arXiv:1804.07353},
+  year={2018}
+}
+```
