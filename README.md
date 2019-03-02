@@ -1,6 +1,6 @@
 # RepGAN
 This is the source code of 'Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation'
-([paper])(https://arxiv.org/abs/1804.07353)
+[(paper)](https://arxiv.org/abs/1804.07353)
 
 The python scripts to train the NN model on each dataset can be found in their folders.  
 **For MNIST, to train the model, call:**
